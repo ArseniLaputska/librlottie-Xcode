@@ -26,7 +26,7 @@ The Samsung's rlottie now release the first tag version, see: [rlottie#159](http
 However, if there are serious bugs due to the integration issue on Apple's platform (rlottie does not provide official iOS support), we may release patch version, which does not match the upstream, the upstream commit HASH is provided here:
 
 + 0.1.0: `a717479`
-+ 0.2.1: `3cd0015`
++ 0.2.1: `67f103bc8b`
 
 If you're facing cache issues. Please update your Package Manager by following the steps:
 
